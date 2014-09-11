@@ -1,0 +1,111 @@
+% This file was created with JabRef 2.5.
+% Encoding: Cp1252
+
+@STRING{and = { and }}
+
+@STRING{aug = {August}}
+
+@STRING{berlin_heidelberg = {Berlin Heidelberg}}
+
+@STRING{dec = {December}}
+
+@STRING{elsevier = {Elsevier}}
+
+@STRING{emmanuel_melin = {Emmanuel Melin}}
+
+@STRING{feb = {February}}
+
+@STRING{hiep_thuan = {Do Hiep-Thuan}}
+
+@STRING{jan = {January}}
+
+@STRING{jul = {July}}
+
+@STRING{jun = {June}}
+
+@STRING{lncs = {LNCS - Lecture Notes in Computer Science}}
+
+@STRING{mar = {March}}
+
+@STRING{may = {May}}
+
+@STRING{nov = {November}}
+
+@STRING{oct = {October}}
+
+@STRING{sebastien_limet = {S{\'e}bastien Limet}}
+
+@STRING{sep = {September}}
+
+@STRING{springer = {Springer}}
+
+@STRING{springer_verlag = {Springer-Verlag}}
+
+@ARTICLE{Do-Limet-Melin-2010,
+  author = {Hiep-Thuan et al.},
+  title = {Parallel computing of cachment basins of rivers in large digitalelevation
+	models},
+  journal = {The International Conference on High Performance Computing and Simulation},
+  year = {2010. Selected as one of 5 best papers},
+  month = {June--July},
+  doi = {10.1109/HPCS.2010.5547157},
+  url = {http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F5538704%2F5547051%2F05547157.pdf%3Farnumber%3D5547157&authDecision=-201}
+}
+
+@ARTICLE{Do-Limet-Melin-2011,
+  author = {Hiep-Thuan et al.},
+  title = {Parallel Computing Flow Accumulation in Large Digital Elevation Models},
+  journal = {Procedia CS},
+  year = {2011},
+  volume = {4},
+  pages = {2277-2286},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://dx.doi.org/10.1016/j.procs.2011.04.248}
+}
+
+@INPROCEEDINGS{Do-Limet-Melin-2009,
+  author = {Hiep-Thuan et al.},
+  title = {Parallel computing of catchment basins in large digital elevation
+	model},
+  booktitle = {HPCA (China)},
+  year = {2009},
+  volume = {5938},
+  series = lncs,
+  pages = {133--138},
+  address = berlin_heidelberg,
+  month = aug,
+  publisher = springer_verlag,
+  doi = {10.1007/978-3-642-11842-5_17},
+  ee = {http://dx.doi.org/10.1007/978-3-642-11842-5_17},
+  url = {http://www.springerlink.com/content/k7v53v6820370586/}
+}
+
+@ARTICLE{Do-Pham-Do:2005,
+  author = {Hiep-Thuan Do and Nguyen-Khang Pham and Thanh-Nghi Do},
+  title = {A simple, Fast Support Vector Machine Algorithm for Datamining},
+  journal = {FAIR'05: the $2^{nd}$ Fundamental \& Applied IT Research},
+  year = {2005},
+  owner = {hiep-thuan},
+  timestamp = {2011.04.22}
+}
+
+@ARTICLE{Do-Sanza-Duthen:2006,
+  author = {Hiep-Thuan Do and C\'{e}dric Sanza and Yves Duthen},
+  title = {Simulation Comportementale de la circulation \`{a} motos dans les
+	grandes villes vietnamiennes},
+  journal = {The $9^{th}$ national conference in computer science},
+  year = {2006},
+  owner = {hiep-thuan},
+  timestamp = {2011.04.22}
+}
+
+@ARTICLE{Do-Pham-Do-Lam:2007,
+  author = {Thanh-Nghi Do and Nguyen-Khang Pham and Hiep-Thuan Do and Ngoc-Chau
+	Lam-Thi},
+  title = {Data Mining with {R}},
+  journal = {FAIR'07, the 3$^{rd}$ Fundamental \& Applied IT Research},
+  year = {2007},
+  owner = {hiep-thuan},
+  timestamp = {2011.04.22}
+}
+

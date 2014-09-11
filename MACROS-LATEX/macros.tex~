@@ -1,0 +1,180 @@
+
+
+%\newcommand\COMMENT[2]{ {\bf comment from : {#1}  } {\em #2}} 
+
+
+%\newcommand{\more}[1]{ \fbox{A VOIR}\ {\small{ \em #1}}}
+%\newcommand{\nomore}[1]{}
+
+
+
+% \newcommand\COMMENT[2]{ {\bf comment from : {#1}  } {\em #2}} 
+% \newcommand{\more}[1]{ \fbox{A VOIR}\ {\small{ \em #1}}}
+% \newcommand{\nomore}[1]{}
+% 
+% \newcommand{\melin}[1]{ \fbox{***Question Emmanuel***: }\ {\small{ \em #1}}}
+% \newcommand{\nomelin}[1]{}
+% 
+% 
+% \newcommand{\reponsedo}[1]{ \fbox{***Réponse de HIEP-THUAN ***: }\ {\small{ \em #1}}}
+% \newcommand{\dohiepthuan}[1]{ \fbox{***Réponse de HIEP-THUAN ***: }\ {\small{ \em #1}}}
+%**********************************************************
+%
+%**********************************************************
+\newcommand{\base}{../}
+
+
+
+\newcommand{\bibtex}{BIBTEX}
+\newcommand{\algotwoe}{ALGO2E}
+\newcommand{\benchmark}{BENCHMARK}
+\newcommand{\images}{IMAGES}
+\newcommand{\pstricks}{PSTRICKS}
+\newcommand{\libtex}{LIB-TEX}
+\newcommand{\macrolatex}{MACRO-LATEX}
+\newcommand{\slides}{SLIDES}
+\newcommand{\codes}{CODES}
+\newcommand{\scripts}{SCRIPTS}
+\newcommand{\packages}{PACKAGES}
+\newcommand{\styles}{STYLES}
+\newcommand{\cvthuan}{CV-THUAN}
+
+
+\newcommand{\thesemain}{THESE-MAIN}
+\newcommand{\theseexpose}{THESE-EXPOSE}
+
+
+\newcommand{\brgmrapport}{BRGM-RAPPORT}
+\newcommand{\brgmplan}{BRGM-PLAN}
+\newcommand{\coursmpi}{COURS-MPI}
+\newcommand{\brgm}{BRGM}
+\newcommand{\ondesthreed}{ONDES3D}
+\newcommand{\heattwod}{HEAT2D}
+\newcommand{\courslinux}{COURS-LINUX}
+
+
+% BENCHMARK
+
+\newcommand{\pathbenchmark}{\base/\benchmark}
+
+
+
+
+% ALGO2E
+
+
+\newcommand{\pathalgo}{\base/\algotwoe}
+
+
+\newcommand{\pathalgothesemain}{\pathalgo/\algotwoe-\thesemain}
+\newcommand{\pathalgocoursmpi}{\pathalgo/\algotwoe-\coursmpi}
+\newcommand{\pathalgobrgmondesthreed}{\base/\algotwoe/\algotwoe-\brgm-\ondesthreed}
+
+
+% CODES
+
+\newcommand{\pathcodes}{\base/\codes}
+\newcommand{\pathcodescoursmpi}{\pathcodes/\codes-\coursmpi}
+
+
+% SCRIPTS
+\newcommand{\pathscriptsbrgmplan}{\base/\scripts/\scripts-\brgmplan}
+
+
+%*****************************************************
+%	BIBTEX
+%*****************************************************
+
+\newcommand{\pathbibtex}{\base/\bibtex}
+
+
+\newcommand{\pathbibtexthesemain}{\pathbibtex/\bibtex-\thesemain}
+
+\newcommand{\auteursbibthesemain}{\pathbibtexthesemain/auteurs}
+\newcommand{\monthsbibthesemain}{\pathbibtexthesemain/months}
+\newcommand{\conferencesbibthesemain}{\pathbibtexthesemain/conferences}
+\newcommand{\watershedsequentialbibthesemain}{\pathbibtexthesemain/WatershedSequential}
+\newcommand{\watershedparallelbibthesemain}{\pathbibtexthesemain/WatershedParallel}
+\newcommand{\watershedhierarchybibthesemain}{\pathbibtexthesemain/WatershedHierarchy}
+\newcommand{\hydrologybibthesemain}{\pathbibtexthesemain/hydrology}
+\newcommand{\graphmstbibthesemain}{\pathbibtexthesemain/GraphMst}
+\newcommand{\ioefficientsbibthesemain}{\pathbibtexthesemain/IoEfficients}
+\newcommand{\thesisbibthesemain}{\pathbibtexthesemain/thesis}
+\newcommand{\booksbibthesemain}{\pathbibtexthesemain/books}
+\newcommand{\dohiepthuanbibthesemain}{\pathbibtexthesemain/dohiepthuan}
+
+
+
+\newcommand{\globalbib}{\pathbibtex/global}
+\newcommand{\oldbib}{\pathbibtex/oldbib}
+\newcommand{\cloudcomputingbib}{\pathbibtex/CloudComputing}
+
+
+
+%*****************************************************
+% IMAGES
+%*****************************************************
+\newcommand{\pathimages}{\base/\images}
+
+\newcommand{\pathimageseps}{\pathimages/eps}
+\newcommand{\pathimagespng}{\pathimages/png}
+\newcommand{\pathimagesjpg}{\pathimages/jpg}
+
+
+
+%*****************************************************
+% LIB-TEX
+%*****************************************************
+\newcommand{\pathlibtex}{\base/\libtex}
+
+\newcommand{\pathlibtexthesemain}{\base/\libtex/\libtex-\thesemain}
+\newcommand{\pathlibtexbrgmplan}{\base/\libtex/\libtex-\brgmplan}
+\newcommand{\pathlibtexbrgmrapport}{\base/\libtex/\libtex-\brgmrapport}
+%\newcommand{\pathlibtexcoursmpi}{\base/\libtex/\libtex-\coursmpi}
+
+\newcommand{\pathlibtexcvthuan}{\pathlibtex/\libtex-\cvthuan}
+
+% SLIDES
+\newcommand{\pathslides}{\base/\slides}
+\newcommand{\pathslidestheseexpose}{\base/\slides/\slides-\theseexpose}
+\newcommand{\pathslidescoursmpi}{\base/\slides/\slides-\coursmpi}
+\newcommand{\pathscourslinux}{\base/\slides/\slides-\courslinux}
+
+\newcommand{\brgmintel}{BRGM-INTEL-2012-12-07}
+\newcommand{\pathslidesbrgmintel}{\base/\slides/\slides-\brgmintel}
+\newcommand{\pathalgobrgmheattwod}{\base/\algotwoe/\algotwoe-\brgm-\heattwod}
+
+
+%*****************************************************
+% PSTRICKS
+%*****************************************************
+\newcommand{\pathpstricks}{\base/\pstricks}
+\newcommand{\pathpstrickscoursmpi}{\pathpstricks/\pstricks-\coursmpi}
+
+
+
+
+
+
+
+% REPORT
+\newcommand{\rootrapport}{\base}
+
+
+% RAPPORT_THESE
+\newcommand{\pathrapportthese}{\rootrapport/MAIN}
+\newcommand{\pathchapitres}{\pathrapportthese}
+
+
+
+%****************************************************************
+% ParaFlow
+%****************************************************************
+\newcommand{\paraflow}{PARAFLOW}
+\newcommand{\pathslidesparaflow}{\base/\slides/\slides-\paraflow}
+
+
+
+% \SetKw{return}{return}
+% \SetKw{procedure}{procedure}
+% \SetKw{function}{function}
