@@ -10,9 +10,9 @@ all: cleanAll compiler clean
 
 compiler: 
 	$(latex) $(main).tex
-# 	$(bibtex) $(journal).aux
-# 	$(bibtex) $(inter).aux
-# 	$(bibtex) $(national).aux
+	$(bibtex) $(journal).aux
+	$(bibtex) $(inter).aux
+	$(bibtex) $(national).aux
 	$(latex) $(main).tex
 	$(latex) $(main).tex
 	$(latex) $(main).tex
