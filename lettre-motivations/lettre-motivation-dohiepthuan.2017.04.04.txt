@@ -1,0 +1,27 @@
+	Madame, Monsieur,
+
+En tant qu'Ingénieur de Recherche au Labo LCE, NanoInnov, CEA à partir du 1 juin 2016, pour la durée 12 mois sous la direction de M. Thierry Goubier, je suis particulièrement intéressé par le poste proposé au sein de votre entreprise.
+
+Mes travaux actuels au LCE concernent sur l’analyse et sur des dynamiques instrumentations des codes binaires en utilisant api: PinTool Intel (https://software.intel.com/en-us/articles/pintool), DynamoRIO(http://www.dynamorio.org) de MIT et Hewlett-Packard, et API-DynInst (http://www.dyninst.org/dyninst). 
+
+Mes travaux actuels au LCE concernent sur l’analyse et l’instrumentation dynamique des codes binares en utilisant des API comme : PinTool de Intel, Dynamo-RIO de HP, API Dyninst. Ces API nous permet de manipuler sur les codes binaires afin de désactiver l’appel d’une fonction, ou de remplacer cet appel par l’autre, ou bien d'insérer des codes avant un appel d’une fonction et après cet appel, ou d'instrumenter des boucles dans une fonction,... A partir de cela, nous pouvons aussi générer automatiquement des graphes d’appels des fonctions pendant l’exécution d’une application (MPI, OpenMP, multithread et séquentielle). Ce projet appartient au cadre de defactoring des codes.
+
+En 03/2013, je suis recruté comme Ingénieur de Développement et d'Intégration dans la société Adanam Technology. Mon projet que j'ai suivi concerne sur la confidentialité des données sur les clouds de stockage. 
+
+
+En 09/2012, j'ai l'occasion de travailler dans l'entreprise BRGM à Orléans pour le projet de HPC. Mes travaux concernent sur l’optimisation et la mesure de performance des codes de calcul pour la simulation d’ondes sismiques. Ces codes se base sur les calculs avec mémoires distribuées et avec mémoires partagées en utilisant la méthode de différence finie. Beaucoup des outils de profiling sont concernés des codes , par example Vtune de Intel, TAU, Valgrind, scalasca...
+
+Titulaire d'un diplôme de Doctorat en Informatique de calcul haute performance en 12/2011 au cadre du projet eXtenGIS (financement FEDER, Région-Centre, CG45). Les partenaires de ce projet sont la société Géo-Hyd, et le laboratoire LIFO à Orléans. Mes recherches en thèse ont été de proposer une plateforme de calculs répartis à base de grappes des ordinateurs en utilisant le langage C/C++ et MPI (OpenMPI, MPICH2). Mes travaux se sont aussi portés sur ces types de calcul en parallèle en utilisant la mémoire externe pour très gros MNT, lorsque le problème à traiter n'entre pas en mémoire centrale des ordinateurs de la grappe de PC. Cette extension a été aussi implémentée d'une manière parallèle (cluster et multi-coeur) en combinant avec la technique "out-of-core". 
+
+De plus, mes études sont formées au niveau supérieur en France, telles que Master M2 Recherche Image Information Hypermédias (Université Paul Sabatier à Toulouse) avec un parcours d'images. Mon stage s'est porté sur la modélisation et simulation comportementale des foules des motos dans les grandes villes vietnamiennes.
+
+
+Dynamique, rigueur, sérieux et autonome, j'ai acquis, au cours de mes expériences professionnelles, les qualités d'écoute et de compréhension nécessaires à ce poste tout en me maîtrisant avec langages de programmation et autre outils informatiques tels que C/C++, JAVA, Git, MPI, OpenMP, Multithreading en me dotant d'un réel professionnalisme. Ce poste me permet de perfectionner ma carrière professionnelle dans les meilleures conditions et dans un domaine que j'ai déjà étudiés.
+
+
+Je serai ravi de pouvoir vous rencontrer afin de vous exposer mes motivation plus précisément. Je me tiens à votre disposition pour un prochain entretien. 
+
+Espérant que ma candidature retiendra votre attention, je vous prie d'agréer, Monsieur Le Directeur, l'expression de mes salutations distinguées.
+
+
+Hiep-Thuan
